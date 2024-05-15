@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BigYiza
 - 👀 I’m interested in Be Rich！
-- 🌱 I’m currently learning iOS
+- 🌱 I’m currently learning take care baby
 - 💞️ I’m looking to collaborate on nice job
 - 📫 How to reach me ...
 
