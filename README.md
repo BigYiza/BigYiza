@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Yiza</h1>
+<h1 align="center">Hi there 👋, I'm BigYiza</h1>
 <h3 align="center">A passionate developer who enjoys building cool things 🚀</h3>
 
 ---
