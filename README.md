@@ -40,8 +40,7 @@
 
 ## 🤝 Connect with Me  
 <p>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:oneozero@icloud.com"><img src="https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
